@@ -1,76 +1,36 @@
 👋 Hi, I'm Shohruhxon Polatboev
 
-🎓 19 y.o Developer from Uzbekistan
-🏫 Technical Specialist at Chirchiq State Pedagogical University
-💻 Backend Developer | Python & Django Enthusiast
+💻 Backend Developer | Python & Django
+🎓 Technical Specialist at Chirchiq State Pedagogical University
+📍 Uzbekistan | 19 y.o
 
 🚀 About Me
 
-I am a 19-year-old backend developer from Uzbekistan.
-Currently working as a Technical Specialist at Chirchiq State Pedagogical University while actively improving my programming skills.
-
-I am focused on becoming a strong Backend Engineer and building scalable web applications.
-
-🧠 Currently Learning
-
-🐍 Python (Advanced level concepts)
-
-🌐 Django & Django REST Framework
-
-🐘 PostgreSQL
-
-🔗 REST API Development
-
-🐳 Docker
-
-☁️ Deployment (Railway, VPS, Linux)
-
-🔄 Git & GitHub (Professional workflow)
-
-🏗 Clean Architecture & Project Structure
+I am a backend developer focused on building web applications using Python and Django.
+Currently improving my skills in backend development and database systems.
 
 🛠 Tech Stack
 
-Backend: Python, Django
+🐍 Python
 
-Database: PostgreSQL, SQLite
+🌐 Django
 
-Version Control: Git, GitHub
+🐘 PostgreSQL
 
-Deployment: Railway
+🔄 Git & GitHub
 
-Other: HTML, CSS, Bootstrap
+🚀 Railway Deployment
 
-🎯 2026 Goals
+🖥 HTML, CSS
 
-✅ Build and deploy production-level Django projects
+📚 Currently Learning
 
-✅ Master PostgreSQL performance optimization
+Django REST Framework
 
-✅ Learn Docker deeply
+PostgreSQL Optimization
 
-✅ Contribute to open-source projects
+Docker
 
-✅ Launch my own SaaS or Startup MVP
+Clean Architecture
 
-📈 What I Want to Learn Next
-
-⚡ Django REST Framework (Advanced)
-
-🔐 Authentication & Security (JWT, OAuth)
-
-🏗 Microservices Architecture
-
-🧠 System Design Basics
-
-☁️ AWS or other Cloud platforms
-
-⚙️ CI/CD pipelines
-
-🌍 Connect With Me
-
-GitHub: https://github.com/yourusername
-
-Telegram: @yourusername
-
-“Consistency beats motivation.”
+System Design Basics
