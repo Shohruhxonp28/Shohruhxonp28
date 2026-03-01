@@ -8,29 +8,3 @@
 
 I am a backend developer focused on building web applications using Python and Django.
 Currently improving my skills in backend development and database systems.
-
-🛠 Tech Stack
-
-🐍 Python
-
-🌐 Django
-
-🐘 PostgreSQL
-
-🔄 Git & GitHub
-
-🚀 Railway Deployment
-
-🖥 HTML, CSS
-
-📚 Currently Learning
-
-Django REST Framework
-
-PostgreSQL Optimization
-
-Docker
-
-Clean Architecture
-
-System Design Basics
